@@ -2,10 +2,10 @@
 -- https://github.com/homaily/Saudi-Arabia-Regions-Cities-and-Districts
 
 
-insert into `cities_lite` (`city_id`, `name_ar`, `name_en`, `region_id`)
+insert into 'cities_lite' ('city_id', 'name_ar', 'name_en', 'region_id')
 values
 (1, 'تبوك', 'Tabuk', 7),
-(2, 'نعمي', 'Na\'mi', 7),
+(2, 'نعمي', 'Nami', 7),
 (3, 'الرياض', 'Riyadh', 1),
 (4, 'حميط', 'Humayt', 7),
 (5, 'الطائف', 'At Taif', 2),
